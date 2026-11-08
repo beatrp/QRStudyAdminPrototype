@@ -1,0 +1,11 @@
+{
+  "title": "admin qr study prototype",
+  "description": "This web application provides an administrative module for QRStudy, enabling efficient management and oversight of study resources and user interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
